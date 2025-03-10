@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Quản lý" />
+
+    <item
+        android:id="@+id/navigation_books"
+        android:icon="@drawable/ic_books"
+        android:title="DS Sách" />
+
+    <item
+        android:id="@+id/navigation_users"
+        android:icon="@drawable/ic_users"
+        android:title="Nhân viên" />
+</menu>
